@@ -70,7 +70,7 @@
               ],
               "shouldTruncate": false,
               "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-              "text": "Email3: {{UserInfo.getUserEmail()}}\n",
+              "text": "Email: {{UserInfo.getUserEmail()}}\n",
               "key": "ib8x5sembs",
               "isDeprecated": false,
               "rightColumn": 36,
